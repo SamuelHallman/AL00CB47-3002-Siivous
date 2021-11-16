@@ -124,3 +124,8 @@ footer	{
 	background: #D4B100;
 	border-radius: 20px;
 }
+@media screen and (min-width: 480px) {
+	.logo { 
+	  overflow: hidden;
+	}
+}
