@@ -4,7 +4,7 @@ body {
 	background-color: #FFFFFF;
 }
 
-h1 {
+h1	{
 	font-family: Calibri;
 	color: #000000;
 	font-size: 68px;
@@ -14,49 +14,15 @@ h1 {
 	right: 120px;
 	top: 80px;
 }
-
-p {
+p	{
 	font-family: Calibri;
 	font-size: 16px;
 	color: #000000;
 }
-
-.footer {
-	position: absolute;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	height: 100px;
+footer	{
 	background-color: #FFCC00;
-	color: rgb(255, 255, 255);
-	text-align: center;
-	overflow-x: hidden;
-}
-
-.hesupesu {
-	position: absolute;
-	left: 100px;
-}
-
-.sposti {
-	position: absolute;
-	left: 400px;
-}
-
-.aukiolo {
-	position: absolute;
-	left: 700px;
-}
-
-.osoite {
-	position: absolute;
-	bottom: -0px;
-}
-
-.numero {
-	position: absolute;
-	bottom: -0px;
-	left: 400px;
+	font-family: Calibri;
+	font-size: 16px;
 }
 
 .darkmode {
@@ -65,7 +31,7 @@ p {
 	width: 400px;
 	position: absolute;
 	right: 150px;
-	top: 20px;
+	top:20px;
 	border-radius: 10px;
 	border: solid black 3px;
 }
@@ -119,7 +85,6 @@ p {
 	right: 10px;
 	top: 10px;
 }
-
 .Sun {
 	width: 115px;
 	height: 65px;
@@ -127,8 +92,7 @@ p {
 	right: -15px;
 	top: 0px;
 }
-
-.mainmenu {
+.mainmenu	{
 	float: right;
 	font-family: Calibri;
 	font-size: 30px;
@@ -143,28 +107,20 @@ p {
 	list-style-type: none;
 	padding-top: 20px;
 }
-
-.mainmenusetting {
-	float: left;
+.mainmenusetting	{
+	float:left;
 	margin-right: 30px;
-	text-decoration: none;
+	text-decoration:none;
 	position: relative;
 	left: 40px;
 }
-
-.mainmenusetting a {
+.mainmenusetting a	{
 	list-style-type: none;
-	text-decoration: none;
+	text-decoration:none;
 	color: #000000;
 	padding: 10px;
 }
-
-.mainmenusetting a:hover {
+.mainmenusetting a:hover	{
 	background: #D4B100;
 	border-radius: 20px;
-}
-@media screen and (min-width: 480px) {
-	.logo { 
-	  overflow: hidden;
-	}
 }
