@@ -42,6 +42,11 @@ p	{
 	left: 400px;
 }
 
+.sposti:hover	{
+	background-color: #D4B100;
+	font-weight: bold;
+}
+
 .sposti a {
 	text-decoration: none;
 	color: rgb(0, 0, 0);
