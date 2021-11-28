@@ -316,7 +316,6 @@ p {
 	text-decoration: none;
 	margin: 5px 2px;
   }
-<<<<<<< HEAD
   .tietoturva	{
 	  width: 1200px;
 	  font-size: 25px;
@@ -333,14 +332,12 @@ p {
 	  position: absolute;
 	  left: 500px;
 	  top: 640px;
-=======
-
+	  
   .mtieto {
-	position: absolute;
-	color:rgb(255, 255, 255);
-	top: 400px;
-	margin-left: 600px;
-	font-size: 25px;
-	text-align: left;
->>>>>>> 1ca09573d9d55de52ac2eb533d9b7dc2ece59aa9
+	  position: absolute;
+	  color:rgb(255, 255, 255);
+	  top: 400px;
+	  margin-left: 600px;
+	  font-size: 25px;
+	  text-align: left;
   }
