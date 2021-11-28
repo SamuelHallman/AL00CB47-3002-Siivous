@@ -25,6 +25,7 @@ p {
 	margin-left: 600px;
 	font-size: 25px;
 	text-align: left;
+	padding-right: 150px;
 }
 
 .second {
@@ -34,21 +35,23 @@ p {
 	margin-left: 600px;
 	font-size: 25px;
 	text-align: left;
+	padding-right: 150px;
 }
 
 .third {
 	position: absolute;
 	color:rgb(255, 255, 255);
-	top: 500px;
+	top: 600px;
 	margin-left: 600px;
 	font-size: 25px;
 	text-align: left;
+	padding-right: 150px;
 }
 
 #mamma {
 	position: absolute;
-	top: 800px;
-	right: 800px;
+	top: 500px;
+	left: -100px;
 	float: left;
 }
 
@@ -340,4 +343,5 @@ p {
 	  margin-left: 600px;
 	  font-size: 25px;
 	  text-align: left;
+	  padding-right: 150px;
   }
