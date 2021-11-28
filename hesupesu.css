@@ -300,3 +300,20 @@ p {
 	text-decoration: none;
 	margin: 5px 2px;
   }
+  .tietoturva	{
+	  width: 1200px;
+	  font-size: 25px;
+	  color: #FFFFFF;
+	  position: absolute;
+	  left: 500px;
+	  top: 300px;
+	  }
+  .henktiedot1	{
+	  color: #FFFFFF;
+	  text-align: left;
+	  font-size: 23px;
+	  font-family: calibri;
+	  position: absolute;
+	  left: 500px;
+	  top: 640px;
+  }
