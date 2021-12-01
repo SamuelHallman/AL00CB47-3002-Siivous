@@ -247,56 +247,56 @@ ol {
 
 .nimi {
 	position: absolute;
-	right: 670px;
-	top: 40px;
+	right: 34.3%;
+	top: 14%;
 }
 
 #nimipalkki {
 	position: absolute;
-	right: 560px;
+	right: 27%;
 	top: 90px;
 }
 
 .puhelin {
 	position: absolute;
-	right: 400px;
-	top: 40px;
+	right: 23%;
+	top: 14%;
 }
 
 #puhelinpalkki {
 	position: absolute;
-	right: 315px;
+	right: 17%;
 	top: 90px;
 }
 
 .sähköposti {
 	position: absolute;
-	right: 120px;
-	top: 40px;
+	right: 11.6%;
+	top: 14%;
 }
 
 #sähköpostipalkki {
 	position: absolute;
-	right: 60px;
+	right: 7%;
 	top: 90px;
 }
 
 .aihe {
 	position: absolute;
-	right: 670px;
-	bottom: 140px;
+	right: 34.3%;
+	bottom: 45%;
 }
 
 .nappi {
 	position: absolute;
-	right: 50px;
-	bottom: 20px;
+	right: 4.3%;
+	bottom: 6%;
 }
 
 #nimip {
 	position: absolute;
-	right: 50px;
-	bottom: 50px;
+	right: 4.2%;
+	bottom: 23%;
 }
 
 .fa:hover {
