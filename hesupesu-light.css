@@ -14,6 +14,12 @@ h1 {
 	top: 80px;
 }
 
+@media only screen and (max-width: 1800px) {
+	.logo {
+	display: none;
+	}
+}
+
 p {
 	font-family: Calibri;
 }
