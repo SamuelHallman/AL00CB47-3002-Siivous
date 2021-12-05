@@ -348,7 +348,7 @@ ol {
 	color: #FFFFFF;
 	text-align: left;
 	position: absolute;
-	left: 600px;
+	right: 100px;
 	top: 300px;
 }
 
@@ -359,7 +359,7 @@ ol {
 	font-size: 23px;
 	font-family: calibri;
 	position: absolute;
-	left: 600px;
+	right: 80px;
 	top: 640px;
 }
 
@@ -379,7 +379,7 @@ ol {
 	color: #FFFFFF;
 	position: absolute;
 	text-align: left;
-	left: 600px;
+	right: 100px;
 	top: 820px;
 }
 
@@ -390,7 +390,7 @@ ol {
 	font-size: 23px;
 	font-family: calibri;
 	position: absolute;
-	left: 600px;
+	right: 80px;
 	top: 880px;
 }
 
@@ -399,7 +399,7 @@ ol {
 	text-align: left;
 	font-size: 25px;
 	position: absolute;
-	left: 0px;
+	right: 20px;
 	width: 1200px;
 }
 
@@ -409,6 +409,6 @@ ol {
 	font-size: 25px;
 	position: absolute;
 	top: 1150px;
-	left: 0px;
+	right: 20px;
 	width: 1200px;
 }

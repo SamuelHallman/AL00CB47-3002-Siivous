@@ -357,7 +357,7 @@ ol {
 	  color: #000000;
 	  text-align: left;
 	  position: absolute;
-	  left: 600px;
+	  right: 100px;
 	  top: 300px;
 }
 .henktiedot1	{
@@ -367,7 +367,7 @@ ol {
 	  font-size: 23px;
 	  font-family: calibri;
 	  position: absolute;
-	  left: 600px;
+	  right: 80px;
 	  top: 640px;
 }
 .tietoturva2	{
@@ -376,7 +376,7 @@ ol {
 	  color: #000000;
 	  position: absolute;
 	  text-align: left;
-	  left: 600px;
+	  right: 100px;
 	  top: 820px;
 }
 .henktiedot2	{
@@ -386,7 +386,7 @@ ol {
 	  font-size: 23px;
 	  font-family: calibri;
 	  position: absolute;
-	  left: 600px;
+	  right: 80px;
 	  top: 880px;
   }
 .haittaohjelmat	{
@@ -394,7 +394,7 @@ ol {
 	  text-align: left;
 	  font-size: 25px;
 	  position: absolute;
-	  left: 0px;
+	  right: 20px;
 	  width: 1200px;
 }
 .salasanat	{
@@ -403,6 +403,6 @@ ol {
 	  font-size: 25px;
 	  position: absolute;
 	  top: 1150px;
-	  left: 0px;
+	  right: 20px;
 	  width: 1200px;
 }
