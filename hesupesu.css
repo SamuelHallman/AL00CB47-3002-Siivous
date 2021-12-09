@@ -36,27 +36,27 @@ ol {
 	font-size: 25px;
 	text-align: left;
 	padding-right: 150px;
-	width: 1200px;
-	right: -80px;
+	width: 1000px;
+	right: 110px;
 }
 
 .second {
 	position: absolute;
 	color: rgb(255, 255, 255);
 	top: 1200px;
-	right: 80px;
+	right: 270px;
 	margin-left: 600px;
 	font-size: 25px;
 	text-align: left;
-	width: 1200px;
+	width: 1000px;
 }
 
 .third {
 	position: absolute;
 	color: rgb(255, 255, 255);
-	width: 1200px;
+	width: 1000px;
 	top: 600px;
-	right: -100px;
+	right: 80px;
 	margin-left: 600px;
 	font-size: 25px;
 	text-align: left;
